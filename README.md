@@ -1,6 +1,6 @@
 ## User Sign-Up Form: Frontend
 
-This is a sign-up form built using Angular6.
+This is a sign-up form built using `Angular6`.
 Generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
 
 ### Install Node_Modules
